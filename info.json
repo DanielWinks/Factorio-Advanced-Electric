@@ -1,0 +1,11 @@
+{
+  "name": "Advanced_Electric",
+  "version": "0.15.1",
+  "factorio_version": "0.15",
+  "title": "Advanced Electric",
+  "author": "Daniel W",
+  "contact": "",
+  "homepage": "",
+  "description": "Advanced power production and distribution.",
+  "dependencies": ["base >= 0.15.10"]
+}
