@@ -6,6 +6,6 @@
   "author": "Daniel W",
   "contact": "",
   "homepage": "",
-  "description": "Advanced power production and distribution.",
+  "description": "Adds additional ranks of boilers, steam engines, steam turbines, power poles, nuclear reactors, and adds primary load versions of steam engines and turbines.",
   "dependencies": ["base >= 0.15.10"]
 }
