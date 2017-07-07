@@ -1,4 +1,5 @@
 data.raw["electric-pole"]["small-electric-pole"].fast_replaceable_group = "electric-pole"
+data.raw["electric-pole"]["substation"].fast_replaceable_group = "electric-pole"
 data.raw["electric-pole"]["medium-electric-pole"].maximum_wire_distance = 11
 
 local small_electric_pole_mk2 = util.table.deepcopy(data.raw["electric-pole"]["small-electric-pole"])
