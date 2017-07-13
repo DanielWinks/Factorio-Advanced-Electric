@@ -92,7 +92,7 @@ substation_mk2.enabled = "false"
 substation_mk2.ingredients =
 {
   {"substation", 1},
-  {"advanced-circuit", 5},
+  {"advanced-circuit", 2},
   {"steel-plate", 10},
   {"copper-plate", 5},
 }
@@ -105,7 +105,7 @@ substation_mk3.enabled = "false"
 substation_mk3.ingredients =
 {
   {"substation-2", 1},
-  {"processing-unit", 5},
+  {"advanced-circuit", 2},
   {"steel-plate", 10},
   {"copper-plate", 5},
 }
@@ -118,7 +118,7 @@ substation_mk4.enabled = "false"
 substation_mk4.ingredients =
 {
   {"substation-3", 1},
-  {"advanced-circuit", 5},
+  {"processing-unit", 2},
   {"steel-plate", 10},
   {"copper-plate", 5},
 }
