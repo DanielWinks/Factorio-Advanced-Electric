@@ -321,7 +321,7 @@ primary_load_steam_steam_engine_mk3.horizontal_animation.layers = engine_horizon
 primary_load_steam_steam_engine_mk3.vertical_animation.layers = engine_vertical_animation_layers_primary()
 primary_load_steam_steam_engine_mk3.fluid_usage_per_tick = 0.8
 primary_load_steam_steam_engine_mk3.maximum_temperature = 265
-primary_load_steam_steam_engine_mk3.maximum_temperature = 600
+primary_load_steam_steam_engine_mk3.max_heath = 600
 primary_load_steam_steam_engine_mk3.minable.result = "advanced-electric-primary-steam-engine-3"
 data:extend({primary_load_steam_steam_engine_mk3})
 
