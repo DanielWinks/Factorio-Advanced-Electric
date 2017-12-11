@@ -1,5 +1,7 @@
 secondary_tint = { r = 0.125, g = 0.25, b = 0.5, a = 0.333 }
 primary_tint = { r = 0.125, g = 0.5, b = 0.25, a = 0.333 }
+secondary_entity_tint = { r = 0.625, g = 0.75, b = 1, a = 1 }
+primary_entity_tint = { r = 0.625, g = 1, b = 0.75, a = 1 }
 
 secondary_steam_engine_icons = {{icon = "__base__/graphics/icons/steam-engine.png"},{ icon = "__base__/graphics/icons/steam-engine.png", tint = secondary_tint}}
 primary_steam_engine_icons = {{icon = "__base__/graphics/icons/steam-engine.png"},{ icon = "__base__/graphics/icons/steam-engine.png", tint = primary_tint}}

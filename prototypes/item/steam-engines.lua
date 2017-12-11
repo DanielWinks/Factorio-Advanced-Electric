@@ -1,5 +1,3 @@
-
-
 data.raw.item["steam-engine"].order="b[steam-power]-b[steam-engine-1]"
 data.raw.item["steam-engine"].subgroup = "advanced-electric-steam-engine"
 data.raw.item["steam-engine"].icon = nil
