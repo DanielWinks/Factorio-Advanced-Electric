@@ -266,6 +266,6 @@ primary_load_steam_steam_engine_mk4.horizontal_animation = engine_horizontal_ani
 primary_load_steam_steam_engine_mk4.vertical_animation = engine_vertical_animation_primary
 primary_load_steam_steam_engine_mk4.fluid_usage_per_tick = 1
 primary_load_steam_steam_engine_mk4.maximum_temperature = 315
-primary_load_steam_steam_engine_mk4.maximum_temperature = 700
+primary_load_steam_steam_engine_mk4.max_heath = 700
 primary_load_steam_steam_engine_mk4.minable.result = "advanced-electric-primary-steam-engine-4"
 data:extend({primary_load_steam_steam_engine_mk4})
