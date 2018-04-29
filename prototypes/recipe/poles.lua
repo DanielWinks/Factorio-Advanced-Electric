@@ -9,6 +9,7 @@ small_electric_pole_mk2.ingredients =
   {"copper-plate", 2},
 }
 small_electric_pole_mk2.result = "small-electric-pole-2"
+small_electric_pole_mk2.result_count = 2
 data:extend({small_electric_pole_mk2})
 
 --medium poles--
