@@ -4,7 +4,7 @@ small_electric_pole_mk2.name = "small-electric-pole-2"
 small_electric_pole_mk2.enabled = "false"
 small_electric_pole_mk2.ingredients =
 {
-  {"small-electric-pole", 1},
+  {"small-electric-pole", 2},
   {"iron-plate", 2},
   {"copper-plate", 2},
 }
