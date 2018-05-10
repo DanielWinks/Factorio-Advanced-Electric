@@ -26,6 +26,12 @@ data:extend(
   },
   {
     type = "item-subgroup",
+    name = "advanced-electric-heat-pipe",
+    group = "production",
+    order = "b-c"
+  },
+  {
+    type = "item-subgroup",
     name = "advanced-electric-nuclear-reactor",
     group = "production",
     order = "d-a"
