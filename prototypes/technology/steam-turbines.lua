@@ -22,11 +22,11 @@ steam_turbine_mk2.effects =
 steam_turbine_mk2.unit.count = 500
 steam_turbine_mk2.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1},
-  {"science-pack-3", 1},
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1},
+  {"chemical-science-pack", 1},
   {"production-science-pack", 1},
-  {"high-tech-science-pack", 1}
+  {"utility-science-pack", 1}
 }
 steam_turbine_mk2.unit.time = 30
 steam_turbine_mk2.upgrade = true

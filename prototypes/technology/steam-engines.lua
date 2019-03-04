@@ -20,8 +20,8 @@ steam_engine_mk2.effects =
 steam_engine_mk2.unit.count = 50
 steam_engine_mk2.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1}
 }
 steam_engine_mk2.unit.time = 30
 steam_engine_mk2.upgrade = true
@@ -51,8 +51,8 @@ steam_engine_mk3.effects =
 steam_engine_mk3.unit.count = 50
 steam_engine_mk3.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1}
 }
 steam_engine_mk3.unit.time = 30
 steam_engine_mk3.upgrade = true
@@ -82,9 +82,9 @@ steam_engine_mk4.effects =
 steam_engine_mk4.unit.count = 50
 steam_engine_mk4.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1},
-  {"science-pack-3", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1},
+  {"chemical-science-pack", 1}
 }
 steam_engine_mk4.unit.time = 30
 steam_engine_mk4.upgrade = true

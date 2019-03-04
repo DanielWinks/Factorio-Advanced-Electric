@@ -17,8 +17,8 @@ boiler_mk2.effects =
 boiler_mk2.unit.count = 50
 boiler_mk2.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1}
 }
 boiler_mk2.unit.time = 30
 boiler_mk2.upgrade = true
@@ -44,8 +44,8 @@ boiler_mk3.effects =
 boiler_mk3.unit.count = 50
 boiler_mk3.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1}
 }
 boiler_mk3.unit.time = 30
 boiler_mk3.upgrade = true
@@ -71,9 +71,9 @@ boiler_mk4.effects =
 boiler_mk4.unit.count = 50
 boiler_mk4.unit.ingredients =
 {
-  {"science-pack-1", 1},
-  {"science-pack-2", 1},
-  {"science-pack-3", 1}
+  {"automation-science-pack", 1},
+  {"logistic-science-pack", 1},
+  {"chemical-science-pack", 1}
 }
 boiler_mk4.unit.time = 30
 boiler_mk4.upgrade = true
