@@ -6,7 +6,6 @@ boiler_mk2.energy_consumption = "3MW"
 boiler_mk2.name = "advanced-electric-boiler-2"
 boiler_mk2.minable.result =  "advanced-electric-boiler-2"
 boiler_mk2.fast_replaceable_group = "boiler"
-boiler_mk2.energy_source.effectivity = 0.6
 data:extend({boiler_mk2})
 
 local boiler_mk3 = util.table.deepcopy(data.raw["boiler"]["boiler"])
@@ -15,7 +14,6 @@ boiler_mk3.energy_consumption = "4.8MW"
 boiler_mk3.name = "advanced-electric-boiler-3"
 boiler_mk3.minable.result =  "advanced-electric-boiler-3"
 boiler_mk3.fast_replaceable_group = "boiler"
-boiler_mk3.energy_source.effectivity = 0.7
 data:extend({boiler_mk3})
 
 local boiler_mk4 = util.table.deepcopy(data.raw["boiler"]["boiler"])
@@ -24,7 +22,6 @@ boiler_mk4.energy_consumption = "7.2MW"
 boiler_mk4.name = "advanced-electric-boiler-4"
 boiler_mk4.minable.result =  "advanced-electric-boiler-4"
 boiler_mk4.fast_replaceable_group = "boiler"
-boiler_mk4.energy_source.effectivity = 0.8
 data:extend({boiler_mk4})
 
 
